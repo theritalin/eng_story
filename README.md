@@ -1,16 +1,22 @@
 # eng_story
 
-A new Flutter project.
+You can read short stories in English. When you see a word that you don't know, you can press on it and you can see its translation.
+<img width="385" alt="Ekran Resmi 2023-08-14 12 41 34" src="https://github.com/theritalin/eng_story/assets/16186510/ad1ddbcd-40d6-428b-bab7-c9fed6798342">
+<img width="382" alt="Ekran Resmi 2023-08-14 12 41 47" src="https://github.com/theritalin/eng_story/assets/16186510/41389f3c-d596-4568-91c7-69eaf7f0b8e4">
+<img width="389" alt="Ekran Resmi 2023-08-14 12 41 57" src="https://github.com/theritalin/eng_story/assets/16186510/5d32e1a6-de0d-43ba-9188-5d8a2ca245<img width="389" alt="Ekran Resmi 2023-08-14 12 42 07" src="https://github.com/theritalin/eng_story/assets/16186510/ff7253ba-5b28-464d-a0de-2ce9cddbee95">
+c6">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Supported Languages
+- Turkish
+- Irish
+- Chinese
+- Italian
+- Arabic
+- Japanese
+- Russian
+- French
+- Spanish
+- Greek
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
